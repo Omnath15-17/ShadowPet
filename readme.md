@@ -1,6 +1,6 @@
 
 
-# 🐉 Cursor Creature
+# 🐉 SHADOW PETS
 
 A desktop pet made with Python and Pygame that follows your mouse cursor.
 
@@ -25,7 +25,7 @@ A desktop pet made with Python and Pygame that follows your mouse cursor.
 
 ```bash
 pip install -r requirements.txt
-python cursor_creature.py
+python ShadowPet.py
 ```
 
 ## Controls
@@ -37,7 +37,7 @@ python cursor_creature.py
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --noconsole cursor_creature.py
+pyinstaller --onefile --noconsole ShadowPet.py
 ```
 
 The executable will be created inside the `dist` folder.
